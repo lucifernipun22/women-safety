@@ -1,9 +1,6 @@
 # LadyBuddy- A Complete women safety app with Emergency SOS Service and Hidden camera detection
 
 
-<img src="https://user-images.githubusercontent.com/57634381/131633790-5c6a360e-738b-4a15-81d9-d0e7c8205794.png" align="left"
-width="200" hspace="10" vspace="10">
-
 LadyBudyy addresses the most devastating problem of human civilization till date,by an innovative technology and simulation.The app manifests mainly four features which are Emergency SOS service, Hidden camera detector manually or by the Electromagntic field detection simulation developed by us, Women's struggle and empowerment news to get empowered, Siren alarm.
 
 
